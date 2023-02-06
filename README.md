@@ -49,7 +49,7 @@ para visualizar o crud faça login na pagina do administrador localizada no foot
 
 <h3 align="center">As Rotas criadas foram</h3>
 
--Inicio/Home
+- Inicio/Home
 - Brasileiros
 - Futebol
 - Seleções
