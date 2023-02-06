@@ -25,7 +25,9 @@ e Digitar este código;
 
 3-create table lendas(
 id int primary key auto_increment not null,
+
 nome varchar(100),
+
 posicao varchar(100)
 );
 
