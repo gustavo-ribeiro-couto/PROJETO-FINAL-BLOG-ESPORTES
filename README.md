@@ -36,12 +36,12 @@ abra o VSCODE
 abra o terminal integrado 
 
 coloque o comando :npm install
-para baic=xar a pasta node_modules
+para baixar a pasta node_modules
 
 logo após
 
-coloque o comando :npm start
-para iniciar o servidor:localhost:3000
+coloque o comando: npm start
+para iniciar o servidor: localhost:3000
 
-para visualozar o projeto coloque no navegador e digite;localhost:3000
+para visualozar o projeto coloque no navegador e digite: localhost:3000
 
