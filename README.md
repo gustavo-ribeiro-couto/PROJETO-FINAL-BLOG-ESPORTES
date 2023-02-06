@@ -62,4 +62,4 @@ para visualizar o crud faça login na pagina do administrador localizada no foot
     
     <h1>Colaboradores</h1>
     - ANA CAROLINA
-    - GUSTAVO RIBEIRO
+    - GUSTAVO RIBEIRO <a href="https://www.linkedin.com/in/gustavo-ribeiro-a3410124a/">Acesse meu Github</a>
