@@ -60,4 +60,6 @@ para visualizar o crud faça login na pagina do administrador localizada no foot
 - Exibir lendas
 - Editar lendas
     
-    COLA
+    <h1>Colaboradores</h1>
+    - ANA CAROLINA
+    - GUSTAVO RIBEIRO
