@@ -47,7 +47,7 @@ para visualizar o projeto coloque no navegador e digite: localhost:3000
 
 para visualizar o crud faça login na pagina do administrador localizada no footer da pagina.
 
-<h3 align="center">As Rotas criadas foram</h3>
+<h3> As Rotas criadas foram</h3>
 
 - Inicio/Home
 - Brasileiros
@@ -59,3 +59,5 @@ para visualizar o crud faça login na pagina do administrador localizada no foot
 - Adicionar lendas
 - Exibir lendas
 - Editar lendas
+    
+    COLA
