@@ -1,0 +1,34 @@
+<div id="lendas-cadastradas1">
+
+<br>
+
+<div class="header-cadastradas">
+<h1>Lendas cadastradas</h1>
+
+
+<h6>clique no nome para editar.</h6>
+
+<br>
+
+<div class="lendas-container">
+    <a href="/addlenda">Adicionar lendas</a>
+    
+    </div>
+
+
+    {{#each lendas}}
+    <div>
+        #{{this.id}} - <span class="bold"><a href="/lendas/{{this.id}}">{{this.nome}}</a> a posição é </span>{{this.posicao}}.
+    </div>
+    {{/each}}
+
+
+    <br><br>
+
+    <a href="/addlenda">voltar</a>
+    
+    
+
+</div>
+
+<br><br><br><br><br><br><br>

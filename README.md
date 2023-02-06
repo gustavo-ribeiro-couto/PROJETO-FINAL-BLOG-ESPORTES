@@ -25,9 +25,7 @@ e Digitar este código;
 
 3-create table lendas(
 id int primary key auto_increment not null,
-
 nome varchar(100),
-
 posicao varchar(100)
 );
 
@@ -38,12 +36,12 @@ abra o VSCODE
 abra o terminal integrado 
 
 coloque o comando :npm install
-para baixar a pasta node_modules
+para baic=xar a pasta node_modules
 
 logo após
 
-coloque o comando: npm start
-para iniciar o servidor: localhost:3000
+coloque o comando :npm start
+para iniciar o servidor:localhost:3000
 
-para visualozar o projeto coloque no navegador e digite: localhost:3000
+para visualozar o projeto coloque no navegador e digite;localhost:3000
 

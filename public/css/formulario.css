@@ -1,0 +1,92 @@
+
+
+
+.main-formulario{
+    position: relative;
+    height: 800px;
+    width: 100vw;
+}
+
+section#login-formulario{
+    position: absolute;
+    overflow: hidden;
+    margin-left: 500px;
+    margin-top: 64px;
+    background-color: white;
+    width: 553px;
+    height: 700px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.603);
+
+}
+
+section#login-formulario > div#imagem-formulario {
+
+    display: block;
+    background: #40E0D0 url(../css/imagens/blogformulario.png) no-repeat ;
+    background-size: cover;
+    height: 329px;
+}
+
+section#login-formulario > div#formulario1 {
+    display: block;
+    padding: 10px;
+}
+
+div#formulario1 > h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario1 > p {
+    font-size: o.8em;
+
+}
+
+#formulario1{
+    align-items: center;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    height: 249px;
+}
+
+.campo-formulario{
+    width: 296px;
+    height: 30px;
+    margin: 5px;
+}
+
+
+
+input#nome-formulario,#sobrenome-formulario, #login-formulario, #senha-formulario{
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 17px;
+    outline: none;
+    
+    cursor: pointer;
+   
+    
+    font-weight: bold;
+   
+}
+
+#formulario{
+    display: inline-table;
+    margin-left: 10px;
+}
+
+#botao-formulario{
+    padding: 10px;
+    font-size: 17px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: #fffb00;
+    border-radius: 3px;
+    font-weight: bold;
+    background-color: #008b8b;
+}
+

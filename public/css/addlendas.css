@@ -1,0 +1,71 @@
+button{
+    cursor: pointer;
+}
+  
+.container-lendas {
+    
+    margin: 0 auto;
+    width: 50%;
+    height: 80%;
+    border-radius: 10px;
+    background:darkcyan;
+}
+
+.header-lendas {
+    min-height: 100px;
+    
+    text-align: center;
+   
+    margin: auto 12px;
+  }
+  
+  .header-lendas span {
+    font-weight: 900;
+    font-size: 20px;
+    word-break: break-all;
+  }
+
+  
+  .modal-lendas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    background-color: darkcyan;
+    border-radius: 10px;
+    width: 50%;
+  }
+  
+  .modal-lendas label {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  .form-control input  {
+    width: 100%;
+    outline: none;
+    padding: 5px 10px; 
+    width: 100%;
+    margin-bottom: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+  }
+  
+  .modal-lendas button {
+    width: 100%;
+    margin: 10px auto;
+    outline: none;
+    border-radius: 20px; 
+    padding: 5px 10px; 
+    width: 100%;
+    border: none;
+    background-color: #fffb00;
+    color: rgb(0, 0, 0);
+  }
+
+  #botoes-form{
+    display: table-caption;
+    
+    
+}
